@@ -10,3 +10,16 @@
     align-items: center;
     justify-content: center
 }
+
+.container .h1{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+}
+
+
+.text p{
+    font-size: 17px;
+    font-family: cursive;
+
+}
